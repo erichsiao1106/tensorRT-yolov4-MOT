@@ -3,7 +3,8 @@
 * detecting people
 * tracking detected people
 * counting in/out of people
-
+![Alt Text](https://github.com/erichsiao1106/tensorRT-yolov4-MOT
+/blob/main/auto-take-pic.gif)
 ![](https://github.com/hungpowang/YOLOv4_MOT_TensorRT/blob/main/TRT_demo_480.gif)
 
 ### People detection
