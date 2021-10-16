@@ -1,0 +1,5 @@
+class = 17
+train  = /people/cfg/train.txt
+valid  = /people/cfg/test.txt
+names  = /people/cfg/obj-cat17.names
+backup = /people/weights/

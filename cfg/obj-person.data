@@ -1,0 +1,5 @@
+class= 1
+train=/content/people/cfg/train.txt
+valid=/content/people/cfg/test.txt
+names=/content/people/cfg/obj-person.names
+backup=/content/people/weights/

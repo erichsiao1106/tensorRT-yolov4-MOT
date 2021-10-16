@@ -1,0 +1,5 @@
+class=1
+train=cfg/train.txt
+valid=cfg/test.txt
+names= ... /cfg/obj.names
+backup= ..../weights/
