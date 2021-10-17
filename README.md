@@ -18,3 +18,6 @@
 
 ### Run python
 * simply type: `python3 main.py`
+
+![Alt Text](https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/TRT_demo_480.gif)
+![Alt Text](https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/TRT_demo_480.gif)
