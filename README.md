@@ -17,6 +17,7 @@
 * download the engine file: 'yolov4_tiny_608.engine'
 
 ### Run python
-* simply type: `python3 main.py`
-<img src="https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/rt3.jpg" width="480" height="240" /><br>
+* simply type: `python3 main.py
+
+<img src="https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/rt3.JPG" width="480" height="240" /><br>
 <img src="https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/trt2.jpg" width="480" height="240" /><br>
