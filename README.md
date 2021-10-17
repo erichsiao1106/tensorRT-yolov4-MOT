@@ -18,6 +18,5 @@
 
 ### Run python
 * simply type: `python3 main.py`
-
-![Alt Text](https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/TRT_demo_480.gif)
-![Alt Text](https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/TRT_demo_480.gif)
+<img src="https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/rt3.jpg" width="480" height="240" /><br>
+<img src="https://github.com/erichsiao1106/tensorRT-yolov4-MOT/blob/main/trt2.jpg" width="480" height="240" /><br>
